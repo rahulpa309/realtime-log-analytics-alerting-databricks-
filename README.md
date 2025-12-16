@@ -258,3 +258,7 @@ Built using Databricks SQL:
 * Cloud deployment (AWS/Azure)
 
 ---
+
+## Screenshots 
+
+<img width="1158" height="554" alt="image" src="https://github.com/user-attachments/assets/75b27cf1-2f7c-4416-be45-3029c5f5e8da" />
